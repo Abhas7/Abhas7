@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently pursuing a Full Stack Development program , where I am gaining comprehensive experience in both front-end and back-end technologies. With a passion for coding and problem-solving, I am honing my skills in JavaScript, React, Node.js, and databases like MongoDB and MySQL. My training at Masai is helping me build a solid foundation in web development practices, and I’m eager to continue learning and contributing to impactful projects.<br><br>
+I am currently pursuing a Full Stack Development program and learning AI/ML through IIT Guwahati , where I am gaining comprehensive experience in both front-end and back-end technologies. With a passion for coding and problem-solving, I am honing my skills in JavaScript, React, Node.js, and databases like MongoDB and MySQL. My training at Masai is helping me build a solid foundation in web development practices, and I’m eager to continue learning and contributing to impactful projects.<br><br>
 
 
 ## 🌐 Socials:
