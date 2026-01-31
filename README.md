@@ -1,5 +1,5 @@
 # 💫 About Me:
-An enthusiastic IIT Guwahati AI/ML student, I blend strong computer science and mathematical foundations with practical AI/ML skills. Proficient in Python, R, and TensorFlow, I've built and deployed AI models. Simultaneously, I'm mastering Full Stack Development at Sage University Bhopal, focusing on JavaScript, React, Node.js, and databases like MongoDB and MySQL. My Masai training reinforces web development best practices. This unique combination allows me to create comprehensive solutions, bridging advanced AI with user-friendly web applications.
+An enthusiastic  student, I blend strong computer science and mathematical foundations with practical AI/ML skills. Proficient in Python, R, and TensorFlow, I've built and deployed AI models. Simultaneously, I'm mastering Full Stack Development at Sage University Bhopal, focusing on JavaScript, React, Node.js, and databases like MongoDB and MySQL. My Masai training reinforces web development best practices. This unique combination allows me to create comprehensive solutions, bridging advanced AI with user-friendly web applications.
 
 
 ## 🌐 Socials:
