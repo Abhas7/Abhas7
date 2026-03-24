@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an AI-Focused Full Stack Developer dedicated to building the next generation of Agentic AI applications. My expertise spans the full lifecycle of software development—from crafting type-safe frontends with React.js , Next.js and JavaScript , TypeScript to orchestrating containerized backends using Expressjs, Nodejs, RestAPI,Postgres SQL(Prisma ORM) and MongoDB, Docker, Kubernetes, and Google Cloud. By combining a strong mathematical foundation in AI (Python, TensorFlow) with high-speed data solutions like Redis and PostgreSQL, I create comprehensive, scalable systems that solve real-world problems through intelligent automation. 
+I am an AI-Focused Full Stack Developer dedicated to building the next generation of Agentic AI applications. My expertise spans the full lifecycle of software development—from crafting type-safe frontends with React.js , Next.js and JavaScript , TypeScript to orchestrating containerized backends using Expressjs, Nodejs, RestAPI,Postgres SQL(Prisma ORM) and MongoDB, Docker, Kubernetes, and Google Cloud. By combining a strong mathematical foundation in AI (Python, TensorFlow) with high-speed data solutions like Redis and PostgreSQL, I create comprehensive, scalable systems that solve real-world problems through intelligent automation.
 
 
 ## 🌐 Socials:
